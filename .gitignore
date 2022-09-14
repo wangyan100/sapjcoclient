@@ -35,12 +35,11 @@
 *.zip
 
 ### sap ###
-lib/*.jar
-lib/*.dll
-lib/*.so
-lib/*.pdb
+sapidoc3.jar 
+sapjco3.jar
+sapjco3.dll
+sapjoc3.pdb
 sapoutput
 *.txt
-
 
 
