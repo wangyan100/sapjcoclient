@@ -1,0 +1,7 @@
+https://erichelgeson.github.io/blog/2021/02/28/testing-camel/
+
+set SAPSYSTEM=HCD
+set ASHOST=10.180.32.18
+set SAPCLIENTID=600
+set USERNAME=SAP_SOA
+set PASSWORD=HCP2020LIVE!
